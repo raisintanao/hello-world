@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+
+Hi, I`m Tomohiro.
+I`m a student of Keio University.
